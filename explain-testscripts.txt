@@ -1,0 +1,4 @@
+
+echo "$DATE"                   ===     echo $DATE
+echo "$WHO_IS_WORKING"         ===     echo $WHO_IS_WORKING
+echo "$HOW_LONG_I_WORK"        ===     echo $HOW_LONG_I_WORK 
